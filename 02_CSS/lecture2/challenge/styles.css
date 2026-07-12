@@ -1,0 +1,100 @@
+/*h1 {
+
+}
+
+#container1 {
+	border-right: 1px solid black;
+	float:left;
+    position:relative;
+    width: 200px;
+    height: 200px;
+}
+
+#container2 {
+	border-bottom: 1px solid black;
+ 	float:left;
+    position:relative;
+    width: 200px;
+    height: 200px;
+}
+#container3 {
+	border-left: 1px solid black;
+ 	float:left;
+    position:relative;
+    width: 200px;
+    height: 200px;
+}
+#container4 {
+	border-top: 1px solid black;
+ 	float:left;
+    position:relative;
+    width: 200px;
+    height: 200px;
+}
+#container5 {
+	float: right;
+	margin-left: 50%;
+	margin-right: 50%;
+	border: 1px solid black;
+    position:relative;
+    width: 200px;
+    height: 200px;
+}
+#container6 {
+	border-top: 1px solid black;
+ 	float:left;
+    position:relative;
+    width: 200px;
+    height: 200px;
+}
+#container7 {
+	border-top: 1px solid black;
+ 	float:left;
+    position:relative;
+    width: 200px;
+    height: 200px;
+}
+#container8 {
+	border-left: 1px solid black;
+ 	float:left;
+    position:relative;
+    width: 200px;
+    height: 200px;
+}
+#container9 {
+	border-top: 1px solid black;
+ 	float:left;
+    position:relative;
+    width: 200px;
+    height: 200px;
+}
+.letter1 {
+	font-size: 200px;
+	font-style: bold;
+}
+
+.letter2 {
+	font-size: 200px;
+	font-style: bold;
+}*/
+
+h1 {
+	text-align: center;
+}
+table {
+margin: auto;
+}
+td {
+	width: 100px;
+	height: 100px;
+}
+
+.vertical {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+.horizontal {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+

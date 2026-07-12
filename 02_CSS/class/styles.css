@@ -1,0 +1,64 @@
+/* code from aug 30 class */
+
+/* #burger{
+    color:orange;
+}
+
+#onions{
+    color:green;
+}
+
+#fries{
+    color:red;
+}
+.strawberry {
+    background:red;
+}
+.blueberry {
+    background: blue;
+}
+p {
+    background: blue;
+    padding: 50px;
+    margin-top:50px;
+} */
+
+
+/* code from sept 1 class */
+/* borders  
+p {
+    border: black solid 3px;
+    background:white;
+} 
+
+li a {
+    color:green;
+} */
+
+/* code on attribute selectors */
+
+/* a[href="http//www.facebook.com"]{
+    color:orange;
+}
+input[type="text"]{
+    color:blue;
+} */
+
+/* the n-th child code */
+/* this not repeating */
+/* p:nth-of-type(3){
+    background:red;
+} */
+/* this is repeating */
+/* p:nth-of-type(3n){
+    font-weight: bold;
+    font-size: 36px;
+} */
+
+p:nth-child(3){
+    background:red;
+}
+p:nth-child(3n){
+    font-weight: bold;
+    font-size: 36px;
+}

@@ -1,0 +1,32 @@
+/*.dot {
+  height: 50px;
+  width: 50px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}*/
+
+#green {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  margin: 5px;
+  border-radius: 100px;
+float: left;
+}
+#yellow {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  margin: 5px;
+  border-radius: 100px;
+float: left;
+}
+#red {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin: 5px;
+  border-radius: 100px;
+float: left;
+}

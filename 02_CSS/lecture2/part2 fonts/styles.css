@@ -1,0 +1,15 @@
+body {
+	font-family: 'Satisfy', cursive;
+}
+.pizza {
+	color: green;
+	float: left;
+}
+.pizza1 {
+	color: red;
+	float: left;
+}
+.pizza2 {
+	color: blue;
+	float: left;
+}

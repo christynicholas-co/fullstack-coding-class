@@ -1,0 +1,154 @@
+/*#dog{
+	Border: solid red 5px;
+	width: 25%;
+	text-align: center;
+	color: white;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-right: 100px;
+	padding-left: 100px;
+}
+.cat {
+	background-color: black;
+}
+
+#mouse {
+	color: yellow;
+	border: dashed blue 5px;
+	width: 200px;
+	padding-right: 100px;
+}
+#bird {
+	color: lightgreen;
+	border: ridge green 5px;
+	width: 50vw;
+	text-align: right;
+	padding-right: 100px;
+	padding-bottom: 100px;
+}
+*/
+/*vw is the viewers width in the browser-important because it affects the way web page is displayed 
+% is a percenatage of the 100% view another way to specify the size.
+px is relative to the pixels on a web page and another way to specify size relative to the webpage*/
+/*
+h1#dog{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1#bird {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	margin-bottom: 0px;
+}
+
+#horse{
+	color: orange;
+	width: 75%;
+}*/
+/* the #horse didnt have a width so the tag extended from one end to the other at 100%*/
+/*h1#horse{
+	margin-right: auto;
+	margin-left: auto;
+	padding: 100px 0 0 100px;
+}*/
+
+/*img {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
+}
+div{
+	width: 25%;
+	height: 300px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+p#p1 {
+	color: green;
+}
+p#p2 {
+	color: green;
+}
+p#p3 {
+	color: red;
+}
+p#p4 {
+	color: green;
+}
+*/
+
+/*h2 {
+	font-size: 36px;
+}
+#green {
+	background-color: green;
+	width: 30%;
+	text-align: left;
+    position: relative;
+}
+
+#yellow {
+	background-color: yellow;
+	width: 30%;
+	text-align: center;
+	position: relative;
+	left: 30%;
+}
+
+#red {
+	background-color: red;
+	width: 30%;
+	text-align: right;
+	position: relative;
+	left: 60%;
+
+}*/
+
+.blue {
+	text-align: center;
+	border: solid red 2px;
+	height: 100px;
+	width: 100px;
+	padding: 20px 20px;
+	background-color: blue;
+	position: absolute;
+	bottom: 60%;
+	right: 60%;
+}
+
+.green {
+	text-align: center;
+	border: solid red 2px;
+	height: 100px;
+	width: 100px;
+	padding: 20px 20px;
+	background-color: green;
+	position: absolute;
+	bottom: 30%;
+	right: 30%;
+}
+
+.yellow {
+	text-align: center;
+	border: solid red 2px;
+	height: 100px;
+	width: 100px;
+	padding: 20px 20px;
+	background-color: yellow;
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+}
+
+
+
+
+
+
+
+
+
