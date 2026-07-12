@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My first fake blog",
+      "body": "Why is this a blog? What is it about?  Yadayadayada",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Not sure why this one is called that but we are going with the flow of the tutorial a bit, I guess.",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
