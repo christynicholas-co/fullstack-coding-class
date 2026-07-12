@@ -1,0 +1,10 @@
+ h1 {
+    color: red;
+}
+
+/* object-fit is built in bootstrap that has several property opitons ---cover allows the image to fill the defined width & height without stretching or distorting the image */
+img {
+    height: 200px;
+    width:200px;
+    object-fit: cover;
+}
