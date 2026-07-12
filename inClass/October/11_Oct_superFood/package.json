@@ -1,0 +1,16 @@
+{
+  "name": "superfood",
+  "version": "1.0.0",
+  "description": "Tells you what the module is about",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "food",
+    "cool"
+  ],
+  "author": "christy-n",
+  "license": "ISC"
+}
