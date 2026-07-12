@@ -1,0 +1,265 @@
+const eventSchema = new mongoose.Schema({
+
+
+})
+
+
+const Event = mongoose.model("Event", eventSchema)
+
+{
+name: " SXSW Wonder House",
+RSVP link: "https://sxsw.arizona.edu/"
+venue_name: "Fogo de Chao"
+address: "309 E 3rd St."
+co-ord:  " 30.264216980678036, -97.7407557313159",
+start time: "11:00 a.m."
+end time:  "11:59 p.m."
+Day:  "March 11. 2022"
+Day2: "March 12, 2022"  
+Day2: "March 13, 2022"
+Details:  "From gritty guitars to the hunger pangs of black holes, the University of Arizona fills three days with speakers, shows nad experiences. We've never been before."  
+Freebies: "Unknown. Often events like these will feature light snacks and beverages preiodically throughout the day. Let us know if you find out more!"
+}
+
+
+
+{
+name:  " Virse & ViGallery NFT Virsioin Launch Party ",
+RSVP link:  " https://www.eventbrite.com/e/sxsw-2022-virse-vigallery-nft-virsion-launch-party-music-film-tech-tickets-251070016177",
+address:  " Rainy Street ",
+co_ord: "30.260082032650296, -97.73831211427425",
+start time: " 7:00 pm  " ,
+end time:  " 10:00 pm  " ,
+Day1:  " March 11, 2022  ",
+Day2:  " March 12, 2022  ",
+Day2:  "  March 13, 2022 " ,
+Details:  "  A secret location launch (somewhere on Rainey st) for creatives  ",
+Freebies: "  Unknown. These guys wear secrets in layers.  Which is how you should be dressing this time of year. ",
+}
+
+
+{
+name:  " Inc. Founder's House  ",
+RSVP link:  " https://events.inc.com/Inc-Founders-House-2022/begin#startReg  ",
+location name: "Cedar Door",
+address:  " 201 Brazos st  ",
+co-ord: " 30.259892625312325, -97.73867434873448 "
+start time: " 10:30 a.m.    " ,
+end time:  "  5:30 p.m. " ,
+Day1:  " March 11, 2022",
+Day2:  " March 12, 2022  ",
+Day2:  " March 13, 2022  " ,
+Day2:  " March 14, 2022  " ,
+Details:  "  A chill place to recharge, grab a snack and a drink, check out a speaker and network with amazing visitors and Austinites. ",
+Freebies: "  Snacks, Apps, Cocktails ",
+}
+
+{
+name:  " Tulsa Remote SXSW Day Party  ",
+RSVP link:  " https://tulsamusic.com/  ",
+address:  "  86 Rainey St ",
+Venue_name: "Augustine",
+co-ord: " 30.259892625312325, -97.73867434873448 ",
+start time: "  12:00 pm " ,
+end time:  "  5:00 pm " ,
+Day1:  "  March 15th, 2022 ",
+Day2:  "   ",
+Day2:  "   " ,
+Details:  "Always a great time   ",
+Freebies: " Food, Drink  ",
+}
+
+{
+name:  " 5th Annual Official SXSW TUlsa  ",
+RSVP link:  "https://tulsamusic.com/  ",
+address:  "  86 Rainy St.",
+Venue_name: "Augustine",
+co-ord: "30.259892625312325, -97.73867434873448 ",
+start time: " 7:00pm  " ,
+end time:  "  11:59pm  " ,
+Day1:  " March 15th, 2022  ",
+Day2:  "   ",
+Day2:  "   " ,
+Details:  " Sounds official...badge likely badge/wristband priority  ",
+Freebies: "None listed  ",
+}
+
+{
+name:  " 7th Annual Tulsa Music Day Party  ",
+Venue_name: "Augustine",
+RSVP link:  " https://tulsamusic.com/    ",
+address:  "  86 Rainey St. ",
+start time: "11:00 am   " ,
+end time:  " 5:00 pm  " ,
+Day1:  " March 16th, 2022  ",
+Day2:  "   ",
+Day2:  "   " ,
+Details:  "   ",
+Freebies: " Food, Drink  ",
+}
+
+{
+"name":  " Visit Fort Worth  ",
+"RSVP link":  " https://www.fortworth.com/sxsw-2022/ ",
+"venue_name": "Container Bar",
+"address":  " 90 Rainey St  ",
+"co-ord": "30.26033879278609, -97.73840326808794",
+"start time": " 11:00 am  " ,
+"end time":  "  11:59 pm  " ,
+"Day1":  "  March 12, 2022 ",
+"Day2":  "  March 13, 2022 ",
+"Day2":  " " ,
+"Details":  "   ",
+'Freebies": "Swag,  BBQ @ noon, Whiskey tastings @ 2pm & 5pm,  Giveaway at 8:17pm",
+}
+
+{
+"name":  " Visit Fort Worth  ",
+"venue_name": "Container Bar",
+"RSVP link":  " https://www.fortworth.com/sxsw-2022/ ",
+"address":  " 90 Rainey St  ",
+"co-ord": "30.26033879278609, -97.73840326808794",
+"start time": " 11:00 am  " ,
+"end time":  "  6:00 pm  " ,
+"Day1":  "  March 14, 2022 ",
+"Day2":  "   ",
+"Day2":  " " ,
+"Details":  "   ",
+"Freebies": "Swag,  BBQ @ noon, Whiskey tastings @ 2pm & 5pm,  Giveaway at 8:17pm",
+}
+
+{
+"name":  "   ",
+"venue_name": " ",
+"RSVP link":  "   ",
+"address":  "   ",
+"co-ord": " ",
+"start time": "   " ,
+"end time":  "   " ,
+"Day1":  "   ",
+"Day2":  "   ",
+"Day3":  "   " ,
+"Details":  "   ",
+"Freebies": "   ",
+}
+
+
+{
+"name":  "   ",
+"venue_name": " ",
+"RSVP link":  "   ",
+"address":  "   ",
+"co-ord": " ",
+"start time": "   " ,
+"end time":  "   " ,
+"Day1":  "   ",
+"Day2":  "   ",
+"Day3":  "   " ,
+"Details":  "   ",
+"Freebies": "   ",
+}
+
+{
+"name":  "   ",
+"venue_name": " ",
+"RSVP link":  "   ",
+"address":  "   ",
+"co-ord": " ",
+"start time": "   " ,
+"end time":  "   " ,
+"Day1":  "   ",
+"Day2":  "   ",
+"Day3":  "   " ,
+"Details":  "   ",
+"Freebies": "   ",
+}
+
+{
+"name":  "   ",
+"venue_name": " ",
+"RSVP link":  "   ",
+"address":  "   ",
+"co-ord": " ",
+"start time": "   " ,
+"end time":  "   " ,
+"Day1":  "   ",
+"Day2":  "   ",
+"Day3":  "   " ,
+"Details":  "   ",
+"Freebies": "   ",
+}
+
+{
+"name":  "   ",
+"venue_name": " ",
+"RSVP link":  "   ",
+"address":  "   ",
+"co-ord": " ",
+"start time": "   " ,
+"end time":  "   " ,
+"Day1":  "   ",
+"Day2":  "   ",
+"Day3":  "   " ,
+"Details":  "   ",
+"Freebies": "   ",
+}
+
+{
+"name":  "   ",
+"venue_name": " ",
+"RSVP link":  "   ",
+"address":  "   ",
+"co-ord": " ",
+"start time": "   " ,
+"end time":  "   " ,
+"Day1":  "   ",
+"Day2":  "   ",
+"Day3":  "   " ,
+"Details":  "   ",
+"Freebies": "   ",
+}
+
+{
+"name":  "   ",
+"venue_name": " ",
+"RSVP link":  "   ",
+"address":  "   ",
+"co-ord": " ",
+"start time": "   " ,
+"end time":  "   " ,
+"Day1":  "   ",
+"Day2":  "   ",
+"Day3":  "   " ,
+"Details":  "   ",
+"Freebies": "   ",
+}
+
+{
+"name":  "   ",
+"venue_name": " ",
+"RSVP link":  "   ",
+"address":  "   ",
+"co-ord": " ",
+"start time": "   " ,
+"end time":  "   " ,
+"Day1":  "   ",
+"Day2":  "   ",
+"Day3":  "   " ,
+"Details":  "   ",
+"Freebies": "   ",
+}
+
+{
+"name":  "   ",
+"venue_name": " ",
+"RSVP link":  "   ",
+"address":  "   ",
+"co-ord": " ",
+"start time": "   " ,
+"end time":  "   " ,
+"Day1":  "   ",
+"Day2":  "   ",
+"Day3":  "   " ,
+"Details":  "   ",
+"Freebies": "   ",
+}
