@@ -1,0 +1,19 @@
+
+
+
+div.Big {
+     background-color: black;
+     width: 400px;
+     height: 400px;
+     margin: 100px auto;
+     position: relative;
+}
+
+div.small {
+     background-color: aqua;
+     height: 100px;
+     width: 100px;
+     position: absolute;
+     bottom: 0;
+     right: 0;
+}
