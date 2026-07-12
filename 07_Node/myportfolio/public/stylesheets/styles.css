@@ -1,0 +1,75 @@
+body {
+    background-color: grey;
+    color:white;
+}
+/* add header same color as footer, 50% opacity (0,0,0,.5) <--rgb colors for #5F9ea0  center nav tabs floating with drop-shadow add borders to tabs and hover to dropdown, darker color when hover over a tab, link changes color on click and when active , add a mouse hand, fixed header*/
+/* footer styling */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #5F9ea0;
+    font-size: 18px;
+    margin-top: 75px;
+}
+
+.news{
+        color: #b0bec5;
+        font-size: 28px;
+}
+
+footer li {
+    display: inline-block;
+    padding: 5px;
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer a:hover{
+    color: black;
+}
+
+.copyright{
+    color: #b0bec5;
+    font-size: 15px;
+}
+
+footer #dog {
+    color: black;
+}
+
+/* navbar styling */
+/*body {margin:0;}*/
+
+/*.navbar {
+overflow: hidden;
+background-color: #5F9ea0;
+position: fixed;
+top: 0;
+width: 100%;    
+}*/
+
+/*.navbar a {
+float: left;
+display: block;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}*/
+/*
+.navbar a:hover {
+background: #ddd;
+color: black;
+}*/
+
+/*.main {
+padding: 16px;
+margin-top: 30px;
+height: 1500px; 
+}*/
+
+/* Used in this example to enable scrolling */
