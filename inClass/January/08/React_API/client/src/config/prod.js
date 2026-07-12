@@ -1,0 +1,5 @@
+module.exports = {
+    tmdb_key: process.env.TMDB_API_KEY
+}
+
+//keeps our key private
